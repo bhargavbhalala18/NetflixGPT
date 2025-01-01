@@ -11,6 +11,17 @@
 - Form validation
 - useRaf hook
 
+- Firebse setup
+- Deploying app on production
+- Create Sign Up User Account
+- Implement Sign In user API
+- Setup Redux (using react-redux and @reduxjs/tookit)
+- Created Redux store with user slice
+- Hosting Web app using firebase
+- Manage routing based on firebase onAuthStateChange
+- Create Sign Out with redux
+- Update profile API using Firebase
+
 # Features
 
 - Login/Signup
