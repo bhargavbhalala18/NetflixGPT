@@ -22,6 +22,23 @@
 - Create Sign Out with redux
 - Update profile API using Firebase
 
+- BugFix: Fixed user name and photo-url update on signUp
+- BugFix: Fixed protect route on after/before login and signup
+- Unsubscribe to onAuthStateChange callback
+- Add hardcoded values to constant files
+
+- Registered TMDB API and get access token
+- Get data from TMDB API and now playing movies list API
+
+- Custom Hook for now playing movies
+- Create a movie slice
+- Update store with movies data
+- planing for main container and secondary container for browse page
+- Fetch data for trailer video
+- Update store with trailer video data
+- Embedded youtube video with autoplay and mute
+- Tailwind Classes to make Main container look awesome
+
 # Features
 
 - Login/Signup
